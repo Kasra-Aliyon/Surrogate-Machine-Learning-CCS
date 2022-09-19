@@ -2,7 +2,7 @@
 
 
 This repository comprises all the code and data necessary to reproduce the results of the paper titled "The development of a design-oriented machine learning surrogate model for carbon capture with the implementation of explainable artificial intelligence."
-This is an original work developed by researchers at LUT University. All rights reserved for LUT University. 
+/n This is an original work developed by researchers at LUT University. All rights reserved for LUT University. 
 
 # How to run
 
