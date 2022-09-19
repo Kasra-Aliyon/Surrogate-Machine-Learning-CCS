@@ -7,9 +7,9 @@ This is an original work developed by researchers at LUT University. All rights 
 # How to run
 
 1.	Make sure all necessary python libraries are installed: Numpy, Pandas, Scipy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, and shap.
-2.	Download the data folder, which contains the data used for this code.
+2.	Download the `data` folder, which contains the data used for this code.
 3.	Run the `makedirectories.ipynb` notebook to make the required directories.
-4.	Run each HPT notebook (DT_HPT, RF_HPT, XG_HPT, SV_HPT, and DN_HPT) to see how the hyperparameters of each machine learning model are optimized. (Optional)
+4.	Run each HPT notebook (`DT_HPT.ipynb`, `RF_HPT.ipynb`, `XG_HPT.ipynb`, `SV_HPT.ipynb`, and `DN_HPT.ipynb`) to see how the hyperparameters of each machine learning model are optimized. (Optional)
 5.	Run the `Main.ipynb` to reproduce the paper results. 
 Note that the size of the Main.ipynb notebook is too large to be rendered on GitHub; you can copy and paste its directory (https://github.com/Kasra-aln/Surrogate-Machine-Learning-CCS/blob/main/Main.ipynb) to https://nbviewer.org/ and see it there. It will take some minutes to load.
 
