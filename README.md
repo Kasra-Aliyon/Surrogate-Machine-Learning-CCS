@@ -11,6 +11,6 @@ This is an original work developed by researchers at LUT University. All rights 
 3.	Run the `makedirectories.ipynb` notebook to make the required directories.
 4.	Run each HPT notebook (`DT_HPT.ipynb`, `RF_HPT.ipynb`, `XG_HPT.ipynb`, `SV_HPT.ipynb`, and `DN_HPT.ipynb`) to see how the hyperparameters of each machine learning model are optimized. (Optional)
 5.	Run the `Main.ipynb` to reproduce the paper results. 
-<br /> Note that the size of the Main.ipynb notebook is too large to be rendered on GitHub; you can copy and paste its directory (https://github.com/Kasra-aln/Surrogate-Machine-Learning-CCS/blob/main/Main.ipynb) to https://nbviewer.org/ and see it there. It will take some minutes to load.
+<br /> Note that the size of the Main.ipynb notebook is too large to be rendered on GitHub; you can copy and paste its directory (https://github.com/Kasra-Aliyon/Surrogate-Machine-Learning-CCS/blob/main/Main.ipynb) to https://nbviewer.org/ and see it there. It will take some minutes to load.
 
 
